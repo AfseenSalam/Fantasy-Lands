@@ -16,8 +16,8 @@ namespace Fantasy_lands
             Name = _name;
             Health = _health;
         }
-        public int GetDamage();
-        public void TakeDamage(int dmg);
+        public abstract int GetDamage();
+        public abstract void TakeDamage(int dmg);
 
     }
 }
