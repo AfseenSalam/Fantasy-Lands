@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GC Practice\\Fantasy lands\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\baguette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\baguette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\soul_scythe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\soul_scythe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\healing_stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\healing_stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\moonlit_spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\moonlit_spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\flame_dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\flame_dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|d:\\gc practice\\fantasy lands\\fantasy lands\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE20B7-6841-471F-8DF1-ACE98209DBD4}|Fantasy lands\\Fantasy lands.csproj|solutionrelative:fantasy lands\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Baguette.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Baguette.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Baguette.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Baguette.cs",
+              "RelativeToolTip": "Fantasy lands\\Baguette.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:36:42.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Soul_Scythe.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Soul_Scythe.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Soul_Scythe.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Soul_Scythe.cs",
+              "RelativeToolTip": "Fantasy lands\\Soul_Scythe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:33:38.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Moonlit_Spear.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Moonlit_Spear.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Moonlit_Spear.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Moonlit_Spear.cs",
+              "RelativeToolTip": "Fantasy lands\\Moonlit_Spear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:31:33.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Flame_Dagger.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Flame_Dagger.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Flame_Dagger.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Flame_Dagger.cs",
+              "RelativeToolTip": "Fantasy lands\\Flame_Dagger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:29:27.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Healing_Stick.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Healing_Stick.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Healing_Stick.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Healing_Stick.cs",
+              "RelativeToolTip": "Fantasy lands\\Healing_Stick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:27:24.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dagger.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Dagger.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Dagger.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Dagger.cs",
+              "RelativeToolTip": "Fantasy lands\\Dagger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:23:40.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Sword.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Sword.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Sword.cs",
+              "RelativeToolTip": "Fantasy lands\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:15:37.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Monster.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Monster.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Monster.cs",
+              "RelativeToolTip": "Fantasy lands\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T23:56:52.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Player.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Player.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Player.cs",
+              "RelativeToolTip": "Fantasy lands\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T23:56:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponFactory.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\WeaponFactory.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\WeaponFactory.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\WeaponFactory.cs",
+              "RelativeToolTip": "Fantasy lands\\WeaponFactory.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T23:53:11.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Character.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Character.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Character.cs",
+              "RelativeToolTip": "Fantasy lands\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:25:02.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "iWeapon.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\iWeapon.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\iWeapon.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\iWeapon.cs",
+              "RelativeToolTip": "Fantasy lands\\iWeapon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:18:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Program.cs",
+              "RelativeDocumentMoniker": "Fantasy lands\\Program.cs",
+              "ToolTip": "D:\\GC Practice\\Fantasy lands\\Fantasy lands\\Program.cs",
+              "RelativeToolTip": "Fantasy lands\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:17:38.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
