@@ -10,9 +10,10 @@ namespace Fantasy_lands
     {
         public iWeapon CurrentWeapon { get; set; }
 
-        public Player(string _name, int _health,iWeapon _currentWeapon) : base(_name,_health)
+        public Player(string _name, int _health) : base(_name,_health)
         {
-            CurrentWeapon = _currentWeapon;
+            CurrentWeapon = null;       //Create a constructor that sends name and health back to the base constructor Weapon will be assigned later in the projec
+
         }
         public override int GetDamage()
         {
@@ -22,7 +23,7 @@ namespace Fantasy_lands
             }
             else
             {
-                int result = GetDamage();
+                int result = CurrentWeapon.GetDamage();
                 if (CurrentWeapon.IsCritical())
                 {
                     result *= 2;

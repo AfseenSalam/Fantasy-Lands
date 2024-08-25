@@ -1,0 +1,15 @@
+D:\GC Practice\Fantasy lands\Fantasy lands\bin\Debug\net8.0\Fantasy lands.exe
+D:\GC Practice\Fantasy lands\Fantasy lands\bin\Debug\net8.0\Fantasy lands.deps.json
+D:\GC Practice\Fantasy lands\Fantasy lands\bin\Debug\net8.0\Fantasy lands.runtimeconfig.json
+D:\GC Practice\Fantasy lands\Fantasy lands\bin\Debug\net8.0\Fantasy lands.dll
+D:\GC Practice\Fantasy lands\Fantasy lands\bin\Debug\net8.0\Fantasy lands.pdb
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\Fantasy lands.GeneratedMSBuildEditorConfig.editorconfig
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\Fantasy lands.AssemblyInfoInputs.cache
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\Fantasy lands.AssemblyInfo.cs
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\Fantasy lands.csproj.CoreCompileInputs.cache
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\Fantasy lands.sourcelink.json
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\Fantasy lands.dll
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\refint\Fantasy lands.dll
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\Fantasy lands.pdb
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\Fantasy lands.genruntimeconfig.cache
+D:\GC Practice\Fantasy lands\Fantasy lands\obj\Debug\net8.0\ref\Fantasy lands.dll
