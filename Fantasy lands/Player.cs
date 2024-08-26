@@ -39,7 +39,7 @@ namespace Fantasy_lands
         }
         public int GetHealing()
         {
-            int result = GetHealing();
+            int result = CurrentWeapon.GetHealing();
             result += Health;
             return result;
         }
